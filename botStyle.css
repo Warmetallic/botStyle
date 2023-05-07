@@ -62,33 +62,4 @@
 
 .bpw-floating-button {
     background-image:  url(https://bot-style-7i9godjxi-warmetallic.vercel.app/umbrella%20(3).png);
-} 
-
-
-.bpw-powered {
-    display: none;
-}
-
-.bpw-send-button {
-  font-size: 0; /* hide original text */
-}
-
-.bpw-send-button::before {
-  content: "Enviar";
-  font-size: 16px; /* set size of new text */
-  font-weight: bold; /* make text bold */
-}
-
-.bpw-send-button:hover::before {
-  display: inline-block;
-}
-
-.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-  background-color: rgba(128, 128, 128, 0.2);
-  color: #000; /* set to black color */
-}
-
-
-.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-  background-color: rgba(128, 128, 128, 0.2); /* set to clear grey color */
 }
