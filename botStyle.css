@@ -1,9 +1,30 @@
 /* Define the CSS class */
 .iframe.my-custom-class {
-  display: none !important;
-  position: fixed !important;
-  bottom: 10px !important;
-  left: 10px !important;
+  display: none!important;
+  position: fixed!important;
+  bottom: 10px!important;
+  left: 10px!important;
+  width: 176px!important;
+  height: 176px!important;
+}
+
+/* Define the CSS class */
+#iframe.my-custom-class {
+  display: none!important;
+  position: fixed!important;
+  bottom: 10px!important;
+  left: 10px!important;
+  width: 176px!important;
+  height: 176px!important;
+}
+
+.my-custom-class {
+  display: none!important;
+  position: fixed!important;
+  bottom: 10px!important;
+  left: 10px!important;
+  width: 176px!important;
+  height: 176px!important;
 }
 
 .bpw-floating-button {
