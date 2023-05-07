@@ -1,3 +1,13 @@
+.bpw-layout {
+    bottom: 150px!important;
+    height: 50px!important;
+    left: auto;
+    right: 36px;
+    top: auto;
+    width: 76px!important;
+}
+
+
 .my-custom-class {
     bottom: 150px!important;
     height: 76px!important;
