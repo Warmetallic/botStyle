@@ -68,11 +68,8 @@
 1
 .bpw-floating-button i {
 
-    /* Sets the opacity of the icon to fully visible */
+    display: none;
 
-    opacity: 0;
-    
-    transparent: 100%;
 
 
 }
