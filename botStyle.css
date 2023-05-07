@@ -75,16 +75,9 @@
     /* Sets the opacity of the icon to fully visible */
 
     opacity: 0;
+    
+    transparent: 100%;
 
-    /* Inherit the fill and stroke color from the parent button element */
-
-    fill: inherit;
-
-    stroke: inherit;
-
-    /* Sets the width of the icon to 100% of the parent button element */
-
-    width: 100%;
 
     /* Removes padding and sets line-height to 0 to center the icon */
 
