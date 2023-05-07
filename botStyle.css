@@ -68,22 +68,12 @@
 1
 .bpw-floating-button i {
 
-    /* Adds a transition effect to the icon when its opacity changes */
-
-    transition: opacity 0.3s ease;
-
     /* Sets the opacity of the icon to fully visible */
 
     opacity: 0;
     
     transparent: 100%;
 
-
-    /* Removes padding and sets line-height to 0 to center the icon */
-
-    padding: 0;
-
-    line-height: 0;
 
 }
 
