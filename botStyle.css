@@ -84,7 +84,8 @@
 
     /* Sets the width of the icon to 100% of the parent button element */
 
-    width: 0%;
+    width: 0px;
+    height: 0px;
 
     /* Removes padding and sets line-height to 0 to center the icon */
 
