@@ -1,5 +1,5 @@
 .my-custom-class {
-    bottom: 50px;
+    bottom: 50px !important;
     height: 76px!important;
     left: auto;
     right: 36px;
