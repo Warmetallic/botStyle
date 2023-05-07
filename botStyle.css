@@ -68,7 +68,7 @@
 1
 .bpw-floating-button i {
 
-    display: none;
+    display: none !important;
 
 
 
