@@ -1,22 +1,15 @@
-.bpw-layout {
-    bottom: 150px!important;
-    height: 50px!important;
-    left: auto;
-    right: 36px;
-    top: auto;
-    width: 76px!important;
-}
-
-
+/* Define the CSS class */
 .my-custom-class {
-    bottom: 150px!important;
-    height: 76px!important;
-    left: auto;
-    right: 36px;
-    top: auto;
-    width: 76px!important;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
 }
 
+/* Apply the CSS class to the iframe element */
+iframe.my-custom-class {
+  width: 300px;
+  height: 500px;
+}
 
 .bpw-floating-button {
 
