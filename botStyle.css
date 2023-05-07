@@ -1,4 +1,4 @@
-bp-web-widget-container {
+.bp-web-widget-container {
     bottom: 96px;
     width: 50px!important;
     height: 50px!important;
@@ -12,10 +12,10 @@ bp-web-widget-container {
 
 }
 
-bp-web-widget {
+.bp-web-widget {
     bottom: 96px;
     width: 50px!important;
-     height: 50px!important;
+    height: 50px!important;
 }
 
 .bp-widget-web {
