@@ -1,8 +1,7 @@
-#webchat {
-    position: fixed;
-    bottom: 20px; /* Adjust this value to move the widget up or down */
-    left: 10px; /* Adjust this value to move the widget left or right */
-    transform: translateX(-100%); /* This moves the widget off-screen to the left */
+iframe.my-custom-class {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
 }
 
 
