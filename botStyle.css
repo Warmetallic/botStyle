@@ -27,6 +27,15 @@
   height: 176px!important;
 }
 
+.bp-widget-widget {
+    bottom: 10px !important;
+    height: 300px !important;
+    left: 10px !important;
+    right: auto !important;
+    top: auto !important;
+    width: 300px !important;
+}
+
 .bpw-floating-button {
 
     /* Aligns the button to the right side of the container */
