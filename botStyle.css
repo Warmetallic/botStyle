@@ -1,9 +1,9 @@
 /* Define the CSS class */
 .iframe.my-custom-class {
-  display: none;
-  position: fixed;
-  bottom: 10px;
-  left: 10px;
+  display: none !important;
+  position: fixed !important;
+  bottom: 10px !important;
+  left: 10px !important;
 }
 
 .bpw-floating-button {
