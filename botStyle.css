@@ -1,7 +1,10 @@
-.iframe.bp-widget-widget {
-  position: fixed;
-  bottom: 10px;
-  left: 10px;
+.my-custom-class {
+    bottom: 50px;
+    height: 76px!important;
+    left: auto;
+    right: 36px;
+    top: auto;
+    width: 76px!important;
 }
 
 
