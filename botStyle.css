@@ -1,4 +1,4 @@
-  .bp-widget-widget {
+ #bp-widget-widget {
     bottom: 24px;
     height: 50px!important;
     left: auto;
@@ -7,14 +7,6 @@
     width: 50px!important;
 }
 
-.bp-widget-widget {
-    bottom: 24px;
-    height: 50px!important;
-    left: auto;
-    right: 36px;
-    top: auto;
-    width: 50px!important;
-}
 
 .bpw-floating-button i {
 
