@@ -67,6 +67,8 @@
 
 
 .bpw-floating-button i {
+    
+    display: hidden;
 
     /* Adds a transition effect to the icon when its opacity changes */
 
