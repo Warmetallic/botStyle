@@ -13,7 +13,7 @@
 
     /* Aligns the button to the right side of the container */
 
-    float: right;
+    float: center;
 
     /* Sets the fill color of the button icon */
 
@@ -28,7 +28,6 @@
     outline: none;
 
 
-
     /* Centers the icon inside the button element */
 
     display: flex;
@@ -36,7 +35,6 @@
     align-items: center;
 
     justify-content: center;
-
 
 
     /* Sets the z-index to ensure the button is on top of other elements */
@@ -53,9 +51,6 @@
 
     cursor: pointer;
 
-    /* Rounds the corners of the button */
-
-    border-radius: 50%;
 
     /* Adds a shadow effect to the button */
 
