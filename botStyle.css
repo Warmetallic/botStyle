@@ -6,16 +6,17 @@
 }
 
 /* Apply the CSS class to the iframe element */
-iframe.my-custom-class {
-  width: 300px;
-  height: 500px;
+.iframe {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
 }
 
 .bpw-floating-button {
 
     /* Aligns the button to the right side of the container */
 
-    float: left;
+    float: center;
 
     /* Sets the fill color of the button icon */
 
