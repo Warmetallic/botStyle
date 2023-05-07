@@ -1,12 +1,6 @@
 /* Define the CSS class */
-.my-custom-class {
-  position: fixed;
-  bottom: 10px;
-  left: 10px;
-}
-
-/* Apply the CSS class to the iframe element */
-.iframe {
+.iframe.my-custom-class {
+  display: none;
   position: fixed;
   bottom: 10px;
   left: 10px;
