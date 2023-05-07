@@ -58,12 +58,6 @@
 
     background-clip: padding-box;
 
-
-
-    /* Adds a transition effect to the button when its size changes */
-
-    transition: width 1s, height 1s;
-
 }
 
 .bpw-floating-button {
