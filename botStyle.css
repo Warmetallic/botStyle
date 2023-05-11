@@ -1,4 +1,4 @@
-.bp-widget-widget {
+.my-custom-class {
     
     position: fixed;
     bottom: 80px;
@@ -6,7 +6,7 @@
 }  
 
 
-#bp-widget-widget {
+#my-custom-class {
     
     position: fixed;
     bottom: 80px;
