@@ -1,3 +1,19 @@
+.bp-web-widget-container {
+    
+    position: fixed;
+    bottom: 80px;
+    right: 100px;
+}  
+
+
+#bp-web-widget-container {
+    
+    position: fixed;
+    bottom: 80px;
+    right: 100px;
+}  
+
+
 .bpw-floating-button {
 
     /* Aligns the button to the right side of the container */
