@@ -26,6 +26,9 @@
     justify-content: center;
     
     position: fixed;
+    
+    bottom: 0;
+    right: 0;
 
 
     /* Sets the z-index to ensure the button is on top of other elements */
