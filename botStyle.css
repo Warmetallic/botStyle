@@ -1,4 +1,4 @@
-.bp-web-widget-container {
+.bp-web-widget {
     
     position: fixed;
     bottom: 80px;
@@ -6,7 +6,7 @@
 }  
 
 
-#bp-web-widget-container {
+#bp-web-widget {
     
     position: fixed;
     bottom: 80px;
