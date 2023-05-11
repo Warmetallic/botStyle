@@ -25,15 +25,9 @@
 
     justify-content: center;
     
-    position: fixed;
-    
-    bottom: 80px;
-    right: 100px;
-
-
     /* Sets the z-index to ensure the button is on top of other elements */
 
-    z-index: 50;
+    z-index: 1;
 
     /* Sets the width and height of the button */
 
